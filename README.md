@@ -1,2 +1,2 @@
 #Student Grade Calculator
-using java programming
+#using JAVA programming
